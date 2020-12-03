@@ -17,4 +17,5 @@ section .title {
 
 p {
     white-space: initial !important;
+    text-align: justify;
 }

@@ -1,10 +1,6 @@
 {
   "title": "About",
   "children": [
-    "I am 26 years old. I am from Tajikistan. I moved to Turkey for university when I was 19 and I lived there for 7 years. I worked there for a few companies. After that I moved back to Tajikistan and only after 3 months I moved to Russia to get my master's degree.",
-    "My programming adventure started in 2008. I started with algorithms, studied many of them related to graph theory, game theory, number theory and etc. I earned many medals, awards and certificates by participating in different competitions and conferences. I have experience in different fields of programming like web, desktop and Arduino. I have also experience as a web security analyst.",
-    "My hobbies are studying linguistics, philosophy, swimming and table tennis.",
-    "Some of the projects that I did on my own were related to using Text Mining in search engines, steganography, machine learning for recommmendation systems. Currently working on my own MVC framework in PHP which uses the plug and play technology to make it easier to setup any project.",
-    "Although I achieved many of my goals in life, my journey is not over."
+    "Мне 20 лет. Я из Таджикистана. Программирую с 2015 года. Начал с языка C++. Решал задачи и участвовал в конкурсах. В 2017 году начал создавать сайты и изучать языки программирования. Не считая родного языка, я владею 3 иностранными языками. Это английский, персидский и русский языки."
   ]
 }

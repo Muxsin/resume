@@ -1,78 +1,50 @@
 {
-  "title": "Skills",
+  "title": "Навыки и умения",
   "visible": 5,
   "children": [
     {
       "name": "PHP",
-      "level": "5/5"
+      "level": "5/10"
     },
     {
       "name": "Laravel",
-      "level": "5/5"
+      "level": "5/10"
     },
     {
       "name": "SQL",
-      "level": "5/5"
+      "level": "4/10"
     },
     {
       "name": "HTML5",
-      "level": "5/5"
+      "level": "8/10"
     },
     {
       "name": "CSS3",
-      "level": "5/5"
+      "level": "7/10"
     },
     {
       "name": "JavaScript",
-      "level": "5/5"
+      "level": "6/10"
     },
     {
       "name": "Git",
-      "level": "5/5"
-    },
-    {
-      "name": "Ubuntu",
-      "level": "5/5"
+      "level": "5/10"
     },
     {
       "name": "MySQL",
-      "level": "5/5"
-    },
-    {
-      "name": "Symfony",
-      "level": "4/5"
+      "level": "4/10"
     },
     {
       "name": "C/C++",
-      "level": "4/5"
+      "level": "4/10"
     },
     {
       "name": "C#",
-      "level": "3/5"
-    },
-    {
-      "name": "Java",
-      "level": "3/5"
-    },
-    {
-      "name": "MongoDB",
-      "level": "3/5"
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "3/5"
-    },
-    {
-      "name": "Kali",
-      "level": "3/5"
+      "level": "2/10"
     },
     {
       "name": "Python",
-      "level": "2/5"
-    },
-    {
-      "name": "Delphi",
-      "level": "2/5"
+      "level": "2/10"
     }
   ]
 }

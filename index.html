@@ -19,17 +19,17 @@
                     </div>
 
                     <div style="text-align: right;">
-                        <div>
+                        <!-- <div>
                             <a href="http://ibrokhim.me">http://ibrokhim.me</a>
+                        </div> -->
+                        <div>
+                            <a href="mailto:ibrokhim.shokirov@gmail.com">muxsin.shokirov@gmail.com</a>
                         </div>
                         <div>
-                            <a href="mailto:ibrokhim.shokirov@gmail.com">ibrokhim.shokirov@gmail.com</a>
+                            +7 (996) 938-93-24
                         </div>
                         <div>
-                            +7 (923) 417-19-95
-                        </div>
-                        <div>
-                            Tomsk/RUSSIA
+                            Томск/Россия
                         </div>
                     </div>
                 </section>
@@ -55,19 +55,6 @@
                 </template>
             </section>
             <section>
-                <h2 class="title">{{ experiences.title }}</h2>
-
-                <template for="experiences.children">
-                    <h5 style="margin-bottom: 0;">{{ company }}</h5>
-                    <h3 style="margin: 0;">{{ title }}</h3>
-                    <h6 style="margin-top: 0; display: flex; justify-content: space-between;">
-                        <span>{{ location }}</span>
-                        <span style="color: red;">{{ duration }}</span>
-                    </h6>
-                    <p>{{ description }}</p>
-                </template>
-            </section>
-            <section>
                 <h2 class="title">{{ skills.title }}</h2>
 
                 <ul style="display: flex; flex-wrap: wrap;">
@@ -81,16 +68,7 @@
 
                 <ul style="display: flex; flex-wrap: wrap;">
                     <template for="languages.children">
-                        <li style="width: 25%;">{{ name }} (<strong>{{ level }}</strong>)</li>
-                    </template>
-                </ul>
-            </section>
-            <section>
-                <h2 class="title">{{ awards.title }}</h2>
-
-                <ul>
-                    <template for="awards.children">
-                        <li><strong>{{ title }}</strong> in {{ description }} (<strong style="color: gray;">{{year }}</strong>)</li>
+                        <li style="width: 50%;">{{ name }} (<strong>{{ level }}</strong>)</li>
                     </template>
                 </ul>
             </section>

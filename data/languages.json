@@ -1,33 +1,21 @@
 {
-  "title": "Languages",
+  "title": "Языки",
   "children": [
     {
-      "name": "Tajik",
-      "level": "Native"
+      "name": "Таджикский",
+      "level": "родной"
     },
     {
-      "name": "Persian",
-      "level": "C2"
+      "name": "Русский",
+      "level": "средне-продвинутый"
     },
     {
-      "name": "Turkish",
-      "level": "C1"
+      "name": "Персидский",
+      "level": "продвинутый"
     },
     {
-      "name": "English",
-      "level": "C1"
-    },
-    {
-      "name": "Russian",
-      "level": "B1"
-    },
-    {
-      "name": "Arabic",
-      "level": "A2"
-    },
-    {
-      "name": "French",
-      "level": "A1"
+      "name": "Англиский",
+      "level": "средний"
     }
   ]
 }
