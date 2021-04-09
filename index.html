@@ -55,6 +55,19 @@
                 </template>
             </section>
             <section>
+                <h2 class="title">{{ experiences.title }}</h2>
+
+                <template for="experiences.children">
+                    <h5 style="margin-bottom: 0;">{{ company }}</h5>
+                    <h3 style="margin: 0;">{{ title }}</h3>
+                    <h6 style="margin-top: 0; display: flex; justify-content: space-between;">
+                        <span>{{ location }}</span>
+                        <span style="color: red;">{{ duration }}</span>
+                    </h6>
+                    <p>{{ description }}</p>
+                </template>
+            </section>
+            <section>
                 <h2 class="title">{{ skills.title }}</h2>
 
                 <ul style="display: flex; flex-wrap: wrap;">
